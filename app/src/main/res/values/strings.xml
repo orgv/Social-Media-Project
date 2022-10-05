@@ -1,0 +1,17 @@
+<resources>
+    <string name="facebook_app_id">1043740902963175</string>
+    <string name="facebook_client_token">d74e831bd1b1cf22dc7b3068f26c8009</string>
+    <string name="fb_login_protocol_scheme">fb1043740902963175</string>
+
+    <string name="twitter_consumer_key">YkMzeXJ4SEVRYnFzZXByYnJfTkw6MTpjaQ</string>
+    <string name="twitter_consumer_secret">COLalv2NXKFP9BTsLojWbhnIbR3DceCw1mKLNf9ZjBxB4MhgFV</string>
+
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

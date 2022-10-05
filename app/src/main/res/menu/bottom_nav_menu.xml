@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/favoritesFragment"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Favorites" />
+    <item
+        android:id="@+id/nearbyFragment"
+        android:icon="@drawable/ic_baseline_nearby_24"
+        android:title="Nearby" />
+    <item
+        android:id="@+id/chatsFragment"
+        android:icon="@drawable/ic_baseline_message_24"
+        android:title="Chats" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_baseline_profile_person_24"
+        android:title="Profile" />
+
+
+</menu>
